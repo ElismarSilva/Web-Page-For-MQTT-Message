@@ -10,7 +10,6 @@ Um painel web simples desenvolvido em C# que integra o protocolo MQTT para envio
 ## Funcionalidades
 - **Comunicação MQTT**: Envie e receba mensagens de um broker MQTT.
 - **Interface Web**: Servidor web para exibir e enviar mensagens MQTT.
-- **Design Moderno**: Interface amigável com estilo responsivo.
 
 ---
 
