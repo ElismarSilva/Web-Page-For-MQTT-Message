@@ -1,4 +1,4 @@
-# Painel Web para Mensagens MQTT em C#
+# Página Web para Mensagens MQTT em C#
 
 Um painel web simples desenvolvido em C# que integra o protocolo MQTT para envio e recebimento de mensagens. Este projeto demonstra uma implementação básica de comunicação MQTT usando a biblioteca [MQTTnet](https://github.com/dotnet/MQTTnet) e uma interface web.
 
